@@ -1,0 +1,9 @@
+body{
+    background: #494545;
+    background: -webkit-linear-gradient(top, #494545, #CC3274);
+    background: -moz-linear-gradient(top, #494545, #CC3274);
+    background: linear-gradient(to bottom, #494545, #CC3274);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}

@@ -6,7 +6,7 @@ function App() {
   return (
     <BR>
       <Routes>
-        <Route path="/" element={ <Index />} />
+        <Route exact path="/" element={ <Index />} />
       </Routes>
     </BR>
   );
